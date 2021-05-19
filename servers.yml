@@ -1,0 +1,4 @@
+Description: >
+    This CloudFormation template deploys 4 servers splitted evenly within the 
+    private zones in each AZ and an Auto Scaling group for high availability
+    and scalability.
